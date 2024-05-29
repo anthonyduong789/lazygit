@@ -1,0 +1,47 @@
+# gui:
+#   theme:
+#     lightTheme: false
+#     # activeBorderColor: "green"
+#     # inactiveBorderColor: "gray"
+#   scrollHeight: 3
+#   scrollPastBottom: true
+#   confirmOnQuit: true
+#
+# keybinding:
+#   universal:
+#     quit: "q"
+#     quitAlt1: "<esc>"
+#     return: "<enter>"
+#     universalNextScreenMode: "tab"
+#     universalPrevScreenMode: "<shift>tab"
+#   main:
+#     nextPage: "j"
+#     prevPage: "k"
+#     createRebaseOptionsMenu: "m"
+#     push: "P"
+#     pull: "L"
+#     refresh: "R"
+#     createRevertMenu: "E"
+#     nextBranch: ">"
+#     prevBranch: "<"
+#   commitMessagePanel:
+#     edit: "e"
+#     close: "q"
+#     commitChanges: "C"
+#     commitChangesAlt1: "<enter>"
+#   confirmation:
+#     proceed: "y"
+#     close: "n"
+#   branches:
+#     checkoutBranch: "c"
+#     newBranch: "N"
+#     deleteBranch: "D"
+#   files:
+#     openFile: "o"
+#     openFileUsingEditor: "E"
+#     stageFile: "s"
+#     unstageFile: "u"
+#   status:
+#     checkout: "c"
+#     newBranch: "N"
+#     deleteBranch: "D"
